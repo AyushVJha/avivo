@@ -1,0 +1,7 @@
+Machine learning is a subset of AI where systems learn from data to make predictions without being explicitly programmed.
+
+Overfitting occurs when a model memorizes training data and fails to generalize. It is addressed through dropout, regularization, and cross-validation.
+
+A transformer is a neural network architecture based on self-attention. It is the foundation of modern LLMs such as GPT, BERT, and LLaMA.
+
+Supervised learning trains models on labeled data. Unsupervised learning finds patterns in unlabeled data.

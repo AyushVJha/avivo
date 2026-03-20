@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+sentence-transformers==2.7.0
+openai==1.30.0
+numpy==1.26.4
+python-dotenv==1.0.0
+groq
